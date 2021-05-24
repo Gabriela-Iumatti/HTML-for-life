@@ -1,0 +1,12 @@
+<a href ="any.html">entry principal page </a>
+
+<a href ="file/any.html">entry secondary page </a>
+
+<a href ="mailto=nane@mail.com">send a e-mail </a>
+
+<a href ="https://www.site.com">link to a webpage </a>
+ 
+<!-- up to page -->
+<a name="top"></a>
+<!-- down to page -->
+<a href ="#top">go to top </a> 
